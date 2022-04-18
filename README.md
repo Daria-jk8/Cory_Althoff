@@ -9,15 +9,11 @@
 >>>>>> The Interview
 >>>>>>> Next Steps
 
-The Zen of Python, don't repeat yourself(DRY), don't stop learning
+<img width="885" alt="3d" src="https://user-images.githubusercontent.com/92945302/163804813-29452162-7db0-4136-809b-b16b2b049c0b.png">
 
--------
-
-
-
-## PRACTICE: :fire:
+# PRACTICE: :fire:
 + part 1_Hangman game
-+ part 2_War_card game
++ part 2_War_card game :spades: :hearts: :clubs: :diamonds:
 + part 3_Scrape Data
 + part 4_Data Structures and Algorithms
 
@@ -31,7 +27,7 @@ The Zen of Python, don't repeat yourself(DRY), don't stop learning
 
 https://user-images.githubusercontent.com/92945302/163796641-5b88e600-a1d7-40d7-a74d-4210bc662503.mp4
 
-# DATA STRUCTURE
+## DATA STRUCTURE  :pushpin:
 1. Stack
 2. Queue
 
@@ -58,7 +54,7 @@ Operations associated with queue are:
  - isEmpty() − check if stack is empty. Returns True if the stack is empty, else False.
  - size() - returns an integer representing the number of elements on the stack
 
-# ALGORITHMS
+## ALGORITHMS  :pushpin:
 
 Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
 
