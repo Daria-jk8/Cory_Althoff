@@ -1,6 +1,20 @@
 # :star: Cory Althoff
 ### The Self-taught Programmer: The Definitive Guide to Programming Professionally
 
+> Python;
+>> arithmetic, comparison, logical operators; 
+>>> Object Oriented Programming (OOP): encapsulation, abstaction, polymorphism, inheritance, composition;
+>>>> Regular Expressions;
+>>>>> Data Structures, Algorithms;
+>>>>>> The Interview
+>>>>>>> Next Steps
+
+The Zen of Python, don't repeat yourself(DRY), don't stop learning
+
+-------
+
+
+
 ## PRACTICE: :fire:
 + part 1_Hangman game
 + part 2_War_card game
@@ -16,13 +30,6 @@
 - https://www.programiz.com/python-programming/recursion  [recursion]
 
 https://user-images.githubusercontent.com/92945302/163796641-5b88e600-a1d7-40d7-a74d-4210bc662503.mp4
-
-
-||| -> Suits:
-- Clubs
-- Diamonds
-- Hearts
-- Spades
 
 # DATA STRUCTURE
 1. Stack
