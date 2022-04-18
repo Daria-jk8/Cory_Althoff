@@ -1,20 +1,28 @@
-# :star: Cory_Althoff
- | part 1_Hangman game
- | part 2_War_card game
- | part 3_Scrape Data
- | part 4_Data Structures and Algorithms
+# :star: Cory Althoff
+### The Self-taught Programmer: The Definitive Guide to Programming Professionally
+
+## PRACTICE: :fire:
++ part 1_Hangman game
++ part 2_War_card game
++ part 3_Scrape Data
++ part 4_Data Structures and Algorithms
+
+
+> additional sources of information
+- https://www.edureka.co/blog/web-scraping-with-python/
+- https://news.ycombinator.com/     [Hacker News]
+- https://leetcode.com/             [LeetCode]
+- https://www.geeksforgeeks.org/    [Algorithms]
+- https://www.programiz.com/python-programming/recursion  [recursion]
+
+https://user-images.githubusercontent.com/92945302/163796641-5b88e600-a1d7-40d7-a74d-4210bc662503.mp4
+
 
 ||| -> Suits:
 - Clubs
 - Diamonds
 - Hearts
 - Spades
-### additional sources of information
-- https://www.edureka.co/blog/web-scraping-with-python/
-- https://news.ycombinator.com/     [Hacker News]
-- https://leetcode.com/             [LeetCode]
-- https://www.geeksforgeeks.org/    [Algorithms]
-- https://www.programiz.com/python-programming/recursion  [recursion]
 
 # DATA STRUCTURE
 1. Stack
